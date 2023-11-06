@@ -1,0 +1,1 @@
+function [expectationValue] = expectationValueMPOMPDO(MPDO,MPO)
